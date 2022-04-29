@@ -1,9 +1,10 @@
 # Table of contents
 
-* [faqmarketplace](README.md)
-  * [Copy of Publisher/Веб-мастер](readme/copy-of-publisher-veb-master/README.md)
-    * [Combo-Block](readme/copy-of-publisher-veb-master/combo-block.md)
-    * [Видеореклама](readme/copy-of-publisher-veb-master/videoreklama.md)
-    * [Товарный виджет](readme/copy-of-publisher-veb-master/tovarnyi-vidzhet.md)
-    * [Популярные вопросы](readme/copy-of-publisher-veb-master/populyarnye-voprosy.md)
-    * [Неисправности в работе](readme/copy-of-publisher-veb-master/neispravnosti-v-rabote.md)
+## FAQ market-place.su
+
+* [Publisher/Веб-мастер](README.md)
+  * [Combo-Block](faq-market-place.su/publisher-veb-master/combo-block.md)
+  * [Видеореклама](faq-market-place.su/publisher-veb-master/videoreklama.md)
+  * [Товарный виджет](faq-market-place.su/publisher-veb-master/tovarnyi-vidzhet.md)
+  * [Популярные вопросы](faq-market-place.su/publisher-veb-master/populyarnye-voprosy.md)
+  * [Неисправности в работе](faq-market-place.su/publisher-veb-master/neispravnosti-v-rabote.md)
