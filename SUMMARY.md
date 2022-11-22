@@ -10,13 +10,13 @@
 * [📺 Формат рекламы](faq-market-place.su/format-reklamy/README.md)
   * [Combo-Block](faq-market-place.su/publisher-veb-master/combo-block.md)
   * [Видеореклама](faq-market-place.su/publisher-veb-master/videoreklama.md)
-* [🕵♂ Publisher/Веб-мастер](<README (1).md>)
-  * [Как правильно поставить код на сайт](faq-market-place.su/publisher-veb-master/kak-pravilno-postavit-kod-na-sait.md)
-  * [Почему просел доход с сайта](faq-market-place.su/publisher-veb-master/pochemu-prosel-dokhod-s-saita.md)
-  * [Как проверить работу Full-Screen минуя настройки отображения (capping)](faq-market-place.su/publisher-veb-master/kak-proverit-rabotu-full-screen-minuya-nastroiki-otobrazheniya-capping.md)
-  * [Почему код необходимо ставить на сайт напрямую](faq-market-place.su/publisher-veb-master/pochemu-kod-neobkhodimo-stavit-na-sait-napryamuyu.md)
-  * [Не отображается блок/проверка работоспособности блока](faq-market-place.su/publisher-veb-master/ne-otobrazhaetsya-blok-proverka-rabotosposobnosti-bloka.md)
-  * [Как создаётся и настраивается отображение рекламного блока](faq-market-place.su/publisher-veb-master/kak-sozdayotsya-i-nastraivaetsya-otobrazhenie-reklamnogo-bloka.md)
+* [🕵♂ Для Publisher/Веб-мастер](faq-market-place.su/dlya-publisher-veb-master/README.md)
+  * [Как правильно поставить код на сайт](faq-market-place.su/dlya-publisher-veb-master/kak-pravilno-postavit-kod-na-sait.md)
+  * [Почему просел доход с сайта](faq-market-place.su/dlya-publisher-veb-master/pochemu-prosel-dokhod-s-saita.md)
+  * [Как проверить работу Full-Screen минуя настройки отображения (capping)](faq-market-place.su/dlya-publisher-veb-master/kak-proverit-rabotu-full-screen-minuya-nastroiki-otobrazheniya-capping.md)
+  * [Почему код необходимо ставить на сайт напрямую](faq-market-place.su/dlya-publisher-veb-master/pochemu-kod-neobkhodimo-stavit-na-sait-napryamuyu.md)
+  * [Не отображается блок/проверка работоспособности блока](faq-market-place.su/dlya-publisher-veb-master/ne-otobrazhaetsya-blok-proverka-rabotosposobnosti-bloka.md)
+  * [Как создаётся и настраивается отображение рекламного блока](faq-market-place.su/dlya-publisher-veb-master/kak-sozdayotsya-i-nastraivaetsya-otobrazhenie-reklamnogo-bloka.md)
 
 ***
 
