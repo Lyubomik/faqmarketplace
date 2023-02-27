@@ -18,6 +18,7 @@
   * [Почему код необходимо ставить на сайт напрямую](faq-market-place.su/dlya-publishera-veb-mastera/pochemu-kod-neobkhodimo-stavit-na-sait-napryamuyu.md)
   * [Не отображается блок/проверка работоспособности блока](faq-market-place.su/dlya-publishera-veb-mastera/ne-otobrazhaetsya-blok-proverka-rabotosposobnosti-bloka.md)
   * [Как создаётся и настраивается отображение рекламного блока](faq-market-place.su/dlya-publishera-veb-mastera/kak-sozdayotsya-i-nastraivaetsya-otobrazhenie-reklamnogo-bloka.md)
+  * [Ответственность вебмастера](faq-market-place.su/dlya-publishera-veb-mastera/otvetstvennost-vebmastera.md)
 
 ***
 
