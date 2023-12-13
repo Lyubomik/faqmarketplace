@@ -5,7 +5,7 @@
 ## FAQ market-place.su
 
 * [🍬 Промоакции](README.md)
-  * [Приветственные +10%](faq-market-place.su/promoakcii/privetstvennye-+10.md)
+  * [Приветственные +5%](faq-market-place.su/promoakcii/privetstvennye-+5.md)
   * [Партнёрская программа](faq-market-place.su/promoakcii/partnyorskaya-programma.md)
 * [📺 Формат рекламы](faq-market-place.su/format-reklamy/README.md)
   * [Combo-Block](faq-market-place.su/publisher-veb-master/combo-block.md)
