@@ -10,7 +10,7 @@
 * [📺 Формат рекламы](faq-market-place.su/format-reklamy/README.md)
   * [Combo-Block](faq-market-place.su/publisher-veb-master/combo-block.md)
   * [Видеореклама](faq-market-place.su/publisher-veb-master/videoreklama.md)
-* [🕵♂ Для Publisher'а/Веб-мастера](faq-market-place.su/dlya-publishera-veb-mastera/README.md)
+* [🕵️‍♂️ Для Publisher'а/Веб-мастера](faq-market-place.su/dlya-publishera-veb-mastera/README.md)
   * [Как правильно поставить код на сайт](faq-market-place.su/dlya-publishera-veb-mastera/kak-pravilno-postavit-kod-na-sait.md)
   * [Какой код устанавливать?](faq-market-place.su/dlya-publishera-veb-mastera/kakoi-kod-ustanavlivat.md)
   * [Почему просел доход с сайта](faq-market-place.su/dlya-publishera-veb-mastera/pochemu-prosel-dokhod-s-saita.md)
@@ -22,5 +22,5 @@
 
 ***
 
-* [🗣 Часто задаваемые вопросы](chasto-zadavaemye-voprosy.md)
+* [🗣️ Часто задаваемые вопросы](chasto-zadavaemye-voprosy.md)
 * [💸 Как производятся выплаты](kak-proizvodyatsya-vyplaty.md)
